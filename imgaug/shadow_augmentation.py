@@ -6,8 +6,8 @@ import random
 import os
 
 
-PREFIX_BG = "/home/work/ldcc_single_plate/trainsets/v01_multi_bottom_origin/"
-SAVE_PREFIX ="/home/work/ldcc_single_plate/trainsets/v03_multi_bottom_shadow/"
+PREFIX_BG = "/home/work/trainsets/v01_multi_bottom_origin/"
+SAVE_PREFIX ="/home/work/trainsets/v03_multi_bottom_shadow/"
 
 bg_files = os.listdir(PREFIX_BG)
 
